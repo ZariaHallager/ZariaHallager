@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sage</h1>
 
+<h3 align="center">A passionate Full Stack Software Engineer from Philadelphia</h3>
+
 ```python
 from life import Creativity
 
@@ -20,8 +22,6 @@ if '__repo__' == '__helpful__':
     star.it()
     fork.it()
 ```
-
-<h3 align="center">A passionate Full Stack Software Engineer from Philadelphia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagespellman&label=Profile%20views&color=0e75b6&style=flat" alt="sagespellman" /> </p>
 
