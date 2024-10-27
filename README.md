@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaria!</h1>
+<h1 align="center">Software Engineer</h1>
 
 <h3 align="center">"Where creativity meets code: crafting innovative solutions for a better tomorrow."</h3>
 
