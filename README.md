@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Zaria</h1>
+<h1 align="center">Hi 👋, I'm Zaria!</h1>
 
-<h3 align="center">A passionate Full Stack Software Engineer from Philadelphia</h3>
+<h3 align="center">"Where creativity meets code: crafting innovative solutions for a better tomorrow."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagespellman&label=Profile%20views&color=0e75b6&style=flat" alt="sagespellman" /> </p>
+
+- ⚡ Introduction <p>Welcome to my GitHub profile! I am a passionate software engineer with a unique blend of creativity and technical expertise. My journey in coding has been fueled by a love for problem-solving and a desire to create impactful solutions that enhance everyday life. Whether it's building dynamic web applications using the MERN stack or optimizing user experiences, I thrive on challenges that push the boundaries of innovation. Explore my projects, and join me in making technology more accessible and engaging for everyone!</p>
 
 ```python
 from life import Creativity
@@ -24,8 +26,6 @@ if '__repo__' == '__helpful__':
     star.it()
     fork.it()
 ```
-
-- ⚡ Fun fact **Octopuses have three hearts**
 
 <p align="left">
 </p>
