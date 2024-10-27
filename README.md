@@ -15,12 +15,12 @@ class Life(Creativity):
         self.open_for_opportunity = True
 
     def current_projects(self):
-        self.currently_learning = "Flask"
-        self.currently_working_on = "Portfolio"
-        self.excited_for = "My first Flask Website / Application"
+        self.currently_learning = "Express"
+        self.currently_working_on = "Networking A.I Companion"
+        self.excited_for = "My Networking A.I Companion app"
     
     def contact_me(self):
-        self.email = "zariahallager@yahoo.com"
+        self.email = "zariahallager@outlook.com"
  
 if '__repo__' == '__helpful__':
     star.it()
