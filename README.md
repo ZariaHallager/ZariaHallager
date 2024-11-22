@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaria Hallager!</h1>
-<h2 align="center">Software Engineer</h2>
+<h2 align="center">Software Engineer @ Resilient Coder </h2>
 
 
 <h3 align="center">Welcome to my Github! Where creativity meets code: crafting innovative solutions for a better tomorrow.</h3>
