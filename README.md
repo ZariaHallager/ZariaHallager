@@ -6,7 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagespellman&label=Profile%20views&color=0e75b6&style=flat" alt="sagespellman" /> </p>
 
-- ⚡ Introduction <p>From middle school tinkerer to software engineer—I've always been about making things click. My tech journey started with middle school me, a screwdriver in hand, taking apart computers just to see how they worked. That early curiosity eventually evolved into building out profiles on Tumblr (and obsessing over just the right HTML tweaks). Fast forward, and I found myself in sales, where I learned how to solve customer problems and build connections. But deep down, I wanted to be the one creating the solutions. Now, as a software engineer, I approach every project with the same curiosity and creativity that got me started. My latest project, Linkly, is an AI-powered networking companion designed to make meeting people feel as seamless as scrolling through your favorite feed. It’s not just a tool—it’s a bridge between people, blending my love for technology and building meaningful connections. I thrive in spaces that celebrate curiosity, collaboration, and the joy of creating something impactful. Whether it’s coding, brainstorming, or tinkering with new ideas, I’m all about turning “what ifs” into “let’s make it happen.”
+- ⚡ Introduction
+- <p>"Once a middle school tinkerer, now a software engineer turning curiosity into code."
+
+Hi, I’m Zaria! My tech journey started with a screwdriver and a lot of questions—disassembling computers in middle school just to see how they worked. That early curiosity grew into designing Tumblr profiles, crafting the perfect layouts, and eventually becoming a software engineer focused on creating tools that connect and empower people.
+
+I’m passionate about blending creativity and functionality, whether I’m building scalable systems or user-friendly apps. Check out Linkly, my AI-powered networking companion, and other projects that reflect my love for innovation and inclusivity. Let’s build something awesome together!
 </p>
 
 ```python
