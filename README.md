@@ -2,11 +2,12 @@
 <h2 align="center">Software Engineer @ Resilient Coders </h2>
 
 
-<h3 align="center">Welcome to my Github! Where creativity meets code: crafting innovative solutions for a better tomorrow.</h3>
+<h3 align="center">Code meets curiosity—building solutions one commit at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagespellman&label=Profile%20views&color=0e75b6&style=flat" alt="sagespellman" /> </p>
 
-- ⚡ Introduction <p>I am a passionate software engineer with a unique blend of creativity and technical expertise. My journey in coding has been fueled by a love for problem-solving and a desire to create impactful solutions that enhance everyday life. Whether it's building dynamic web applications using the MERN stack or optimizing user experiences, I thrive on challenges that push the boundaries of innovation. Explore my projects, and join me in making technology more accessible and engaging for everyone!</p>
+- ⚡ Introduction <p>From middle school tinkerer to software engineer—I've always been about making things click. My tech journey started with middle school me, a screwdriver in hand, taking apart computers just to see how they worked. That early curiosity eventually evolved into building out profiles on Tumblr (and obsessing over just the right HTML tweaks). Fast forward, and I found myself in sales, where I learned how to solve customer problems and build connections. But deep down, I wanted to be the one creating the solutions. Now, as a software engineer, I approach every project with the same curiosity and creativity that got me started. My latest project, Linkly, is an AI-powered networking companion designed to make meeting people feel as seamless as scrolling through your favorite feed. It’s not just a tool—it’s a bridge between people, blending my love for technology and building meaningful connections. I thrive in spaces that celebrate curiosity, collaboration, and the joy of creating something impactful. Whether it’s coding, brainstorming, or tinkering with new ideas, I’m all about turning “what ifs” into “let’s make it happen.”
+</p>
 
 ```python
 from life import Creativity
