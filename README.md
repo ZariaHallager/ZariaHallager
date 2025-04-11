@@ -17,13 +17,13 @@ from life import Creativity
 
 class Life(Creativity):
     def __init_life__(self):
-        self.current_job_title = "___"
+        self.current_job_title = "Software Engineer"
         self.open_for_opportunity = True
 
     def current_projects(self):
-        self.currently_learning = "Express"
-        self.currently_working_on = "Networking A.I Companion"
-        self.excited_for = "My Networking A.I Companion app"
+        self.currently_learning = "Three.Js"
+        self.currently_working_on = "Three.js Client Site"
+        self.excited_for = "MCP Server Build"
     
     def contact_me(self):
         self.email = "zariahallager@outlook.com"
