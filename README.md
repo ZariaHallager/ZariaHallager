@@ -22,8 +22,8 @@ class Life(Creativity):
 
     def current_projects(self):
         self.currently_learning = "Three.Js"
-        self.currently_working_on = "Three.js Client Site"
-        self.excited_for = "MCP Server Build"
+        self.currently_working_on = "Three.js Client Project"
+        self.excited_for = "Three JS Client Project"
     
     def contact_me(self):
         self.email = "zariahallager@outlook.com"
