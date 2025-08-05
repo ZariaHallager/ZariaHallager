@@ -2,14 +2,14 @@
 <h2 align="center">Software Engineer @ Resilient Coders </h2>
 
 
-<h3 align="center">Code meets curiosity—building solutions one commit at a time.</h3>
+<h3 align="center">Code meets curiosity building solutions one commit at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagespellman&label=Profile%20views&color=0e75b6&style=flat" alt="sagespellman" /> </p>
 
 - ⚡ Introduction
 - <p>"Once a middle school tinkerer, now a software engineer turning curiosity into code."
 
-Hi, I’m Zaria! My tech journey started with a screwdriver and a lot of questions—disassembling computers in middle school just to see how they worked. That early curiosity grew into designing Tumblr profiles, crafting the perfect layouts, and eventually becoming a software engineer focused on creating tools that connect and empower people. I’m passionate about blending creativity and functionality, whether I’m building scalable systems or user-friendly apps. Check out Linkly, my AI-powered networking companion, and other projects that reflect my love for innovation and inclusivity. Let’s build something awesome together!
+Hi, I’m Zaria! My tech journey started with a screwdriver and a lot of questions disassembling computers in middle school just to see how they worked. That early curiosity grew into designing Tumblr profiles, crafting the perfect layouts, and eventually becoming a software engineer focused on creating tools that connect and empower people. I’m passionate about blending creativity and functionality, whether I’m building scalable systems or user-friendly apps. Check out Linkly, my AI-powered networking companion, and other projects that reflect my love for innovation and inclusivity. Let’s build something awesome together!
 </p>
 
 ```python
