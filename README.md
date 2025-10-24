@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaria Hallager!</h1>
-<h2 align="center">Software Engineer @ Resilient Coders </h2>
+<h2 align="center"> Founder Of Fundlish </h2>
 
 
 <h3 align="center">Code meets curiosity building solutions one commit at a time.</h3>
