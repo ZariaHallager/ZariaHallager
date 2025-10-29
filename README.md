@@ -28,13 +28,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm Zaria software engineer, founder, and builder of tech that actually serves women.
+I'm Zaria Software Engineer, FoundHER, and Builder of tech that actually serves women.
 
 **My Mission:** Create a portfolio of women-first applications that become household names. From financial literacy to data privacy, I'm building the tech ecosystem we deserve.
 
 **Currently:** Starting development on **Fundlish**, the AI-powered financial literacy platform teaching women worldwide to master money and build generational wealth.
 
-**Philosophy:** Financial freedom isn't a privilege—it's a birthright. Period tracking shouldn't surveil you. Budget apps should respect your intelligence. Dating should use science. Travel planning should prioritize safety.
+**Philosophy:** Financial freedom isn't a privilege; it's a birthright. Period tracking shouldn't surveil you. Budget apps should respect your intelligence. Love is a science. Travel planning should prioritize safety.
 
 **The Goal:** Bring women to the forefront of tech, one thoughtfully designed application at a time.
 
@@ -80,7 +80,7 @@ An AI-powered platform that meets women exactly where they are—providing perso
 
 ### ✨ Core Features
 
-🤖 **FundlishAI** → 24/7 personal money mentor powered by GPT-4  
+🤖 **FundlishAI** → 24/7 personal money mentor powered by AI 
 🌍 **Global-First** → 150+ currencies, 40+ languages, cultural intelligence  
 🎮 **Money Simulator** → Practice negotiations and investments in a safe space  
 👭 **The Circle** → Community accountability groups  
@@ -409,7 +409,7 @@ One thoughtfully designed application at a time, I'm creating the technology inf
 **ChemPhlly** will revolutionize how we approach meaningful connections.  
 **Coinette** will give women the budget tools they actually want.
 
-This isn't just about building apps—it's about shifting power dynamics in tech. It's about proving that when you design *for* women, you design *better*.
+This isn't just about building apps, it's about shifting power dynamics in tech. It's about proving that when you design *for* women, you design *better*.
 
 **The future of tech is inclusive. I'm building it.**
 
