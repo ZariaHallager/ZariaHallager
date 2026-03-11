@@ -128,10 +128,10 @@ Personality compatibility using attachment theory and love languages, Philly-spe
 </td>
 <td width="50%" valign="top">
 
-### 🌸 **Blöm**
+### 🌸 **Callyx**
 *Period tracker that protects your data*
 
-Post-Roe reality demands privacy. Blöm offers period & symptom tracking, fertility awareness, and cycle syncing tips with **zero data sharing**. Your data lives on your device, encrypted and yours alone.
+Post-Roe reality demands privacy. Callyx offers period & symptom tracking, fertility awareness, and cycle syncing tips with **zero data sharing**. Your data lives on your device, encrypted and yours alone.
 
 **Tech:** React Native, Local Storage Only, E2E Encryption  
 **Status:** beta Q3 2026, security audit in progress
